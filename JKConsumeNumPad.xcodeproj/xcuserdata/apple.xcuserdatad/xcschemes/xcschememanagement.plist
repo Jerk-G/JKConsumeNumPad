@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JKConsumeNumPad.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>JKPictureSource.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>186DD3F91E481B9000C1B865</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18E44EEF1E480C530031D56D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18E44F081E480C530031D56D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18E44F131E480C530031D56D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
